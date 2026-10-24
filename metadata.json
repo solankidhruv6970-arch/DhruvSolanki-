@@ -1,0 +1,6 @@
+{
+  "name": "Google AI Studio",
+  "description": "Developer playground for prototyping with Gemini models, system instructions, multimodal inputs, structured few-shots, and code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
